@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@material/web": "^1.4.1"
+  },
+  "name": "warreport",
+  "version": "1.0.0",
+  "description": "Warhammer 40K OBS overlay and stream tools",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mediamagnet/warreport.git"
+  },
+  "author": "Nathan Conlon (MediaMagnet)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mediamagnet/warreport/issues"
+  },
+  "homepage": "https://github.com/mediamagnet/warreport#readme"
+}
